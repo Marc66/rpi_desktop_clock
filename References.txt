@@ -1,0 +1,4 @@
+Some links to help build my own code
+E-Ink Display Clock: https://www.reddit.com/r/raspberry_pi/comments/vi2xow/comment/idekcm2/
+Retro Digital Clock: https://www.instructables.com/Retro-Digital-Clock-W-Raspberry-Pi-Zero/
+Smart Clock: https://medium.com/@simonelippolis/create-a-smart-clock-with-raspberry-pi-d190995dcb49
